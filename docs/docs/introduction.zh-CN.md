@@ -21,7 +21,7 @@ Ant Design Pro 在力求提供开箱即用的开发体验，为此我们提供�
 
 在我们刚刚开始跑起来项目之后就能看到一个界面，虽然简单的开发已经可以了，但是如果我们懂一些基础知识会让我们的开发更加顺畅，debug 也会更加简单。
 
-## [web 技术](https://developer.mozilla.org/zh-CN/docs/Web/Reference)
+## [web 技术](https://developer.mozilla.org/zh-CN/docs/Web)
 
 web 技术是指通过 [JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference)，[HTML](https://developer.mozilla.org/zh-CN/docs/Glossary/HTML)，[css](https://developer.mozilla.org/zh-CN/docs/Glossary/CSS) 来构建网站的技术，[mdn](https://developer.mozilla.org/zh-CN/docs/Web/Guide) 提供了相当方便的文档来帮助我们学习这些知识。
 
